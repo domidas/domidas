@@ -1,5 +1,5 @@
-- Hi, I’m @f-poke
-- Name is a reference to that old Linux file, fstab
+- Hi, I’m @domidas
+- Name means nothing :)
 - I'm not much of a programmer, I just learn random snippets of languages to make something I like, but I have no formal education in cs or the like
 - There are ways to get in touch with me, and if you must, look around... you'll find something.
 
